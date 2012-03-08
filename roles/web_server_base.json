@@ -1,5 +1,5 @@
 {
-  "name": "base",
+  "name": "web_server_base",
   "default_attributes": {
   },
   "json_class": "Chef::Role",
