@@ -7,11 +7,12 @@
     "recipe[chef-client]",
     "recipe[timezone::default]",
     "recipe[ntp::default]",
-    "recipe[ulimit::default]",
     "recipe[ec2::default]",
-    "recipe[route53::default]"
+    "recipe[apache2::default]",
+    "recipe[php::default]",
+    "recipe[mysql::default]"
   ],
-  "description": "Base Recipes",
+  "description": "Web Server Base Recipes",
   "chef_type": "role",
   "override_attributes": {
   }
