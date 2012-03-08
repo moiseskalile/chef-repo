@@ -1,0 +1,29 @@
+{
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "description": "EC2 Util Cookbook",
+  "conflicting": {
+  },
+  "long_description": "EC2 Util Cookbook",
+  "recipes": {
+  },
+  "providing": {
+  },
+  "maintainer": "JusBrasil (Goshme)",
+  "version": "0.1.0",
+  "attributes": {
+  },
+  "replacing": {
+  },
+  "license": "Proprietary",
+  "maintainer_email": "leogamas@jusbrasil.com.br",
+  "groupings": {
+  },
+  "name": "ec2",
+  "recommendations": {
+  },
+  "dependencies": {
+  }
+}
